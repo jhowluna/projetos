@@ -1,0 +1,14 @@
+			Jhonatan da Silva Luna
+Titulo: Analise Crimes-sp
+
+Dados : Geospatial Sao Paulo Crime Database
+
+Tarefa: Extrair insights dos dados, encontrar zonas de Risco em são paulo, indices de crimes, indices de crimes por regiao.
+
+Data Inicio : 20/01/2020
+
+data Prevista: 03/02/2020
+
+Extras: Extrair modos operante e predições.
+
+Apresentação do Projeto Crimes

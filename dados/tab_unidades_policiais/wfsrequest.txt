@@ -1,0 +1,1 @@
+http://192.168.142.27:8080/geoserver/magna/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=magna%3Atab_unidades_policiais&maxFeatures=50&outputFormat=SHAPE-ZIP
